@@ -1,2 +1,2 @@
 # Python
-Lessons of CS50 course.
+Repository to share my studies in python language.
