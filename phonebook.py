@@ -1,3 +1,5 @@
+/* Lesson of CS50: Introduction to Computer Science, Harvard University course in Brazil
+
 from cs50 import get_string
 
 people = {
